@@ -29,13 +29,13 @@ register_query_tools(mcp)
 
 if __name__ == "__main__":
     transport = os.getenv("MCP_TRANSPORT", "streamable-http")
-    port = int(os.getenv("PORT", "8080"))
 
     if transport == "stdio":
         mcp.run(transport="stdio")
     else:
-        mcp.run(
-            transport="streamable-http",
-            host="0.0.0.0",
-            port=port,
-        )
+        # Use uvicorn directly to bind to Cloud Run's PORT
+        import uvicorn
+
+        port = int(os.getenv("PORT", "8080"))
+        app = mcp.streamable_http_app()
+        uvicorn.run(app, host="0.0.0.0", port=port)

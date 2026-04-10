@@ -9,6 +9,7 @@ COPY src/ ./src/
 COPY data/ ./data/
 
 ENV PORT=8080
+ENV PYTHONUNBUFFERED=1
 EXPOSE 8080
 
-CMD ["python", "src/server.py"]
+CMD ["python", "-u", "src/server.py"]
