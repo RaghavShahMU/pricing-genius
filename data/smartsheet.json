@@ -1,0 +1,2573 @@
+{
+  "competitor": "smartsheet",
+  "display_name": "Smartsheet",
+  "url": "https://www.smartsheet.com/pricing",
+  "extracted_at": "2026-04-10T16:01:55.015069Z",
+  "extraction_method": "ai",
+  "data_version": 1,
+  "plans": [
+    {
+      "name": "Pro",
+      "slug": "pro",
+      "label": null,
+      "is_custom_pricing": false,
+      "pricing": {
+        "monthly_per_unit": 12.0,
+        "annual_per_unit": 9.0,
+        "unit": "member",
+        "currency": "USD",
+        "annual_discount_pct": null
+      },
+      "trial": {
+        "days": 30,
+        "credit_card_required": false
+      },
+      "members": {
+        "min": 1,
+        "max": 10
+      },
+      "viewers": "unlimited",
+      "guests": 0,
+      "storage_gb": 20,
+      "max_attachment_mb": 30,
+      "automations_per_month": 250,
+      "dashboard_widgets": 10,
+      "sheets_per_report": 1,
+      "features": {
+        "views": [
+          {
+            "name": "Grid view",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Gantt view",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Calendar view",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Table view",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Board view",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Timeline view",
+            "available": false,
+            "value": null,
+            "note": null
+          }
+        ],
+        "general": [
+          {
+            "name": "Sheets",
+            "available": true,
+            "value": "unlimited",
+            "note": null
+          },
+          {
+            "name": "Dashboards",
+            "available": true,
+            "value": "unlimited",
+            "note": null
+          },
+          {
+            "name": "Reports",
+            "available": true,
+            "value": "unlimited",
+            "note": null
+          },
+          {
+            "name": "Forms",
+            "available": true,
+            "value": "unlimited",
+            "note": null
+          },
+          {
+            "name": "Conditional form logic",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Templates",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Widgets per dashboard",
+            "available": true,
+            "value": 10,
+            "note": null
+          },
+          {
+            "name": "Sheets per report",
+            "available": true,
+            "value": 1,
+            "note": null
+          },
+          {
+            "name": "Mobile app (Android & iOS)",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Private sheets and reports",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Export sheet",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "File library",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Workload tracking",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "WorkApps: No-code workapps",
+            "available": false,
+            "value": null,
+            "note": null
+          }
+        ],
+        "formulas_data": [
+          {
+            "name": "Column types",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Cell formulas",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Column formulas",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Cross-sheet formulas",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Dependencies",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Filters",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Conditional formatting",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Cell history",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Cell linking",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Column links",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Lock or unlock rows and columns",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Baselines",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Report grouping and summary",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Activity log",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Document builder",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "API calls",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Custom colors & logos",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Work Insights: Instantly analyze your data",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Custom welcome and help screens",
+            "available": false,
+            "value": null,
+            "note": null
+          }
+        ],
+        "collaboration": [
+          {
+            "name": "Provisional Members",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Assign people",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Conversations",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Comments",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Proofing (image and video)",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Publish sheets, reports, and dashboards",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Collections",
+            "available": false,
+            "value": null,
+            "note": null
+          }
+        ],
+        "ai_tools": [
+          {
+            "name": "Intelligent form fill",
+            "available": true,
+            "value": null,
+            "note": "NEW"
+          },
+          {
+            "name": "Generate formulas",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Text and summaries",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Analyze data",
+            "available": false,
+            "value": null,
+            "note": null
+          }
+        ],
+        "automations": [
+          {
+            "name": "Automated triggers",
+            "available": true,
+            "value": 250,
+            "note": null
+          },
+          {
+            "name": "Alerts and notifications",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Reminders",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Assign people action",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Update requests",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Approval requests",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Record a date",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Move or copy row",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Clear cell",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Send alert to Slack",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Send alert to Microsoft Teams",
+            "available": true,
+            "value": null,
+            "note": null
+          }
+        ],
+        "integrations": [
+          {
+            "name": "Microsoft Office 365 (Teams, Outlook, OneDrive, etc.)",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Google Workspace (Gmail, Hangouts, Drive, etc.)",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Slack",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Adobe Creative Cloud Extension",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Power BI",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Tableau",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Claude",
+            "available": false,
+            "value": null,
+            "note": "NEW"
+          },
+          {
+            "name": "E-signature with Docusign",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Nearly 100 more",
+            "available": true,
+            "value": null,
+            "note": null
+          }
+        ],
+        "security_admin": [
+          {
+            "name": "Single sign-on (SSO)",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Admin Center",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "User Management",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Plan Insights",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Group management",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Account discovery",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Schedule backups",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Domain validation",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "SAML-based SSO",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Directory integrations",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "User merge",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Enterprise Plan Manager",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Enterprise access controls",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Custom email domains",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "User account provisioning",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Safe Sharing",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Chargeback reports",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "System admin fallback",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Data retention policies",
+            "available": false,
+            "value": null,
+            "note": "add-on"
+          },
+          {
+            "name": "Data egress",
+            "available": false,
+            "value": null,
+            "note": "add-on"
+          },
+          {
+            "name": "Event reporting",
+            "available": false,
+            "value": null,
+            "note": "add-on"
+          },
+          {
+            "name": "Customer Managed Encryption Key (CMEK)",
+            "available": false,
+            "value": null,
+            "note": "add-on"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Business",
+      "slug": "business",
+      "label": "Most popular",
+      "is_custom_pricing": false,
+      "pricing": {
+        "monthly_per_unit": 24.0,
+        "annual_per_unit": 19.0,
+        "unit": "member",
+        "currency": "USD",
+        "annual_discount_pct": null
+      },
+      "trial": {
+        "days": 30,
+        "credit_card_required": false
+      },
+      "members": {
+        "min": 3,
+        "max": null
+      },
+      "viewers": "unlimited",
+      "guests": "unlimited",
+      "storage_gb": 1024,
+      "max_attachment_mb": 250,
+      "automations_per_month": "unlimited",
+      "dashboard_widgets": "unlimited",
+      "sheets_per_report": "unlimited",
+      "features": {
+        "views": [
+          {
+            "name": "Grid view",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Gantt view",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Calendar view",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Table view",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Board view",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Timeline view",
+            "available": true,
+            "value": null,
+            "note": null
+          }
+        ],
+        "general": [
+          {
+            "name": "Sheets",
+            "available": true,
+            "value": "unlimited",
+            "note": null
+          },
+          {
+            "name": "Dashboards",
+            "available": true,
+            "value": "unlimited",
+            "note": null
+          },
+          {
+            "name": "Reports",
+            "available": true,
+            "value": "unlimited",
+            "note": null
+          },
+          {
+            "name": "Forms",
+            "available": true,
+            "value": "unlimited",
+            "note": null
+          },
+          {
+            "name": "Conditional form logic",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Templates",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Widgets per dashboard",
+            "available": true,
+            "value": "unlimited",
+            "note": null
+          },
+          {
+            "name": "Sheets per report",
+            "available": true,
+            "value": "unlimited",
+            "note": null
+          },
+          {
+            "name": "Mobile app (Android & iOS)",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Private sheets and reports",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Export sheet",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "File library",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Workload tracking",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "WorkApps: No-code workapps",
+            "available": false,
+            "value": null,
+            "note": null
+          }
+        ],
+        "formulas_data": [
+          {
+            "name": "Column types",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Cell formulas",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Column formulas",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Cross-sheet formulas",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Dependencies",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Filters",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Conditional formatting",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Cell history",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Cell linking",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Column links",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Lock or unlock rows and columns",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Baselines",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Report grouping and summary",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Activity log",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Document builder",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "API calls",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Custom colors & logos",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Work Insights: Instantly analyze your data",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Custom welcome and help screens",
+            "available": false,
+            "value": null,
+            "note": null
+          }
+        ],
+        "collaboration": [
+          {
+            "name": "Provisional Members",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Assign people",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Conversations",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Comments",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Proofing (image and video)",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Publish sheets, reports, and dashboards",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Collections",
+            "available": false,
+            "value": null,
+            "note": null
+          }
+        ],
+        "ai_tools": [
+          {
+            "name": "Intelligent form fill",
+            "available": true,
+            "value": null,
+            "note": "NEW"
+          },
+          {
+            "name": "Generate formulas",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Text and summaries",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Analyze data",
+            "available": false,
+            "value": null,
+            "note": null
+          }
+        ],
+        "automations": [
+          {
+            "name": "Automated triggers",
+            "available": true,
+            "value": "unlimited",
+            "note": null
+          },
+          {
+            "name": "Alerts and notifications",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Reminders",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Assign people action",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Update requests",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Approval requests",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Record a date",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Move or copy row",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Clear cell",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Send alert to Slack",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Send alert to Microsoft Teams",
+            "available": true,
+            "value": null,
+            "note": null
+          }
+        ],
+        "integrations": [
+          {
+            "name": "Microsoft Office 365 (Teams, Outlook, OneDrive, etc.)",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Google Workspace (Gmail, Hangouts, Drive, etc.)",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Slack",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Adobe Creative Cloud Extension",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Power BI",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Tableau",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Claude",
+            "available": true,
+            "value": null,
+            "note": "NEW"
+          },
+          {
+            "name": "E-signature with Docusign",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Nearly 100 more",
+            "available": true,
+            "value": null,
+            "note": null
+          }
+        ],
+        "security_admin": [
+          {
+            "name": "Single sign-on (SSO)",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Admin Center",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "User Management",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Plan Insights",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Group management",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Account discovery",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Schedule backups",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Domain validation",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "SAML-based SSO",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Directory integrations",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "User merge",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Enterprise Plan Manager",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Enterprise access controls",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Custom email domains",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "User account provisioning",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Safe Sharing",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Chargeback reports",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "System admin fallback",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Data retention policies",
+            "available": false,
+            "value": null,
+            "note": "add-on"
+          },
+          {
+            "name": "Data egress",
+            "available": false,
+            "value": null,
+            "note": "add-on"
+          },
+          {
+            "name": "Event reporting",
+            "available": false,
+            "value": null,
+            "note": "add-on"
+          },
+          {
+            "name": "Customer Managed Encryption Key (CMEK)",
+            "available": false,
+            "value": null,
+            "note": "add-on"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Enterprise",
+      "slug": "enterprise",
+      "label": null,
+      "is_custom_pricing": true,
+      "pricing": null,
+      "trial": null,
+      "members": {
+        "min": 10,
+        "max": null
+      },
+      "viewers": "unlimited",
+      "guests": "unlimited",
+      "storage_gb": null,
+      "max_attachment_mb": 250,
+      "automations_per_month": "unlimited",
+      "dashboard_widgets": "unlimited",
+      "sheets_per_report": "unlimited",
+      "features": {
+        "views": [
+          {
+            "name": "Grid view",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Gantt view",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Calendar view",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Table view",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Board view",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Timeline view",
+            "available": true,
+            "value": null,
+            "note": null
+          }
+        ],
+        "general": [
+          {
+            "name": "Sheets",
+            "available": true,
+            "value": "unlimited",
+            "note": null
+          },
+          {
+            "name": "Dashboards",
+            "available": true,
+            "value": "unlimited",
+            "note": null
+          },
+          {
+            "name": "Reports",
+            "available": true,
+            "value": "unlimited",
+            "note": null
+          },
+          {
+            "name": "Forms",
+            "available": true,
+            "value": "unlimited",
+            "note": null
+          },
+          {
+            "name": "Conditional form logic",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Templates",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Widgets per dashboard",
+            "available": true,
+            "value": "unlimited",
+            "note": null
+          },
+          {
+            "name": "Sheets per report",
+            "available": true,
+            "value": "unlimited",
+            "note": null
+          },
+          {
+            "name": "Mobile app (Android & iOS)",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Private sheets and reports",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Export sheet",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "File library",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Workload tracking",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "WorkApps: No-code workapps",
+            "available": true,
+            "value": null,
+            "note": null
+          }
+        ],
+        "formulas_data": [
+          {
+            "name": "Column types",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Cell formulas",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Column formulas",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Cross-sheet formulas",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Dependencies",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Filters",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Conditional formatting",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Cell history",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Cell linking",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Column links",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Lock or unlock rows and columns",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Baselines",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Report grouping and summary",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Activity log",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Document builder",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "API calls",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Custom colors & logos",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Work Insights: Instantly analyze your data",
+            "available": true,
+            "value": null,
+            "note": "NEW"
+          },
+          {
+            "name": "Custom welcome and help screens",
+            "available": true,
+            "value": null,
+            "note": null
+          }
+        ],
+        "collaboration": [
+          {
+            "name": "Provisional Members",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Assign people",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Conversations",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Comments",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Proofing (image and video)",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Publish sheets, reports, and dashboards",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Collections",
+            "available": true,
+            "value": null,
+            "note": "NEW"
+          }
+        ],
+        "ai_tools": [
+          {
+            "name": "Intelligent form fill",
+            "available": true,
+            "value": null,
+            "note": "NEW"
+          },
+          {
+            "name": "Generate formulas",
+            "available": true,
+            "value": null,
+            "note": "NEW"
+          },
+          {
+            "name": "Text and summaries",
+            "available": true,
+            "value": null,
+            "note": "NEW"
+          },
+          {
+            "name": "Analyze data",
+            "available": true,
+            "value": null,
+            "note": "NEW"
+          }
+        ],
+        "automations": [
+          {
+            "name": "Automated triggers",
+            "available": true,
+            "value": "unlimited",
+            "note": null
+          },
+          {
+            "name": "Alerts and notifications",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Reminders",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Assign people action",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Update requests",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Approval requests",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Record a date",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Move or copy row",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Clear cell",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Send alert to Slack",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Send alert to Microsoft Teams",
+            "available": true,
+            "value": null,
+            "note": null
+          }
+        ],
+        "integrations": [
+          {
+            "name": "Microsoft Office 365 (Teams, Outlook, OneDrive, etc.)",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Google Workspace (Gmail, Hangouts, Drive, etc.)",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Slack",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Adobe Creative Cloud Extension",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Power BI",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Tableau",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Claude",
+            "available": true,
+            "value": null,
+            "note": "NEW"
+          },
+          {
+            "name": "E-signature with Docusign",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Nearly 100 more",
+            "available": true,
+            "value": null,
+            "note": null
+          }
+        ],
+        "security_admin": [
+          {
+            "name": "Single sign-on (SSO)",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Admin Center",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "User Management",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Plan Insights",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Group management",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Account discovery",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Schedule backups",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Domain validation",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "SAML-based SSO",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Directory integrations",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "User merge",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Enterprise Plan Manager",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Enterprise access controls",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Custom email domains",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "User account provisioning",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Safe Sharing",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Chargeback reports",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "System admin fallback",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Data retention policies",
+            "available": false,
+            "value": null,
+            "note": "add-on"
+          },
+          {
+            "name": "Data egress",
+            "available": false,
+            "value": null,
+            "note": "add-on"
+          },
+          {
+            "name": "Event reporting",
+            "available": false,
+            "value": null,
+            "note": "add-on"
+          },
+          {
+            "name": "Customer Managed Encryption Key (CMEK)",
+            "available": false,
+            "value": null,
+            "note": "add-on"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Advanced Work Management",
+      "slug": "awm",
+      "label": "Best value",
+      "is_custom_pricing": true,
+      "pricing": null,
+      "trial": null,
+      "members": {
+        "min": null,
+        "max": null
+      },
+      "viewers": "unlimited",
+      "guests": "unlimited",
+      "storage_gb": null,
+      "max_attachment_mb": 250,
+      "automations_per_month": "unlimited",
+      "dashboard_widgets": "unlimited",
+      "sheets_per_report": "unlimited",
+      "features": {
+        "views": [
+          {
+            "name": "Grid view",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Gantt view",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Calendar view",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Table view",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Board view",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Timeline view",
+            "available": true,
+            "value": null,
+            "note": null
+          }
+        ],
+        "general": [
+          {
+            "name": "Sheets",
+            "available": true,
+            "value": "unlimited",
+            "note": null
+          },
+          {
+            "name": "Dashboards",
+            "available": true,
+            "value": "unlimited",
+            "note": null
+          },
+          {
+            "name": "Reports",
+            "available": true,
+            "value": "unlimited",
+            "note": null
+          },
+          {
+            "name": "Forms",
+            "available": true,
+            "value": "unlimited",
+            "note": null
+          },
+          {
+            "name": "Conditional form logic",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Templates",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Widgets per dashboard",
+            "available": true,
+            "value": "unlimited",
+            "note": null
+          },
+          {
+            "name": "Sheets per report",
+            "available": true,
+            "value": "unlimited",
+            "note": null
+          },
+          {
+            "name": "Mobile app (Android & iOS)",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Private sheets and reports",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Export sheet",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "File library",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Workload tracking",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "WorkApps: No-code workapps",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "DataTable",
+            "available": true,
+            "value": null,
+            "note": null
+          }
+        ],
+        "formulas_data": [
+          {
+            "name": "Column types",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Cell formulas",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Column formulas",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Cross-sheet formulas",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Dependencies",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Filters",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Conditional formatting",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Cell history",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Cell linking",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Column links",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Lock or unlock rows and columns",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Baselines",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Report grouping and summary",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Activity log",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Document builder",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "API calls",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Custom colors & logos",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Work Insights: Instantly analyze your data",
+            "available": true,
+            "value": null,
+            "note": "NEW"
+          },
+          {
+            "name": "Custom welcome and help screens",
+            "available": true,
+            "value": null,
+            "note": null
+          }
+        ],
+        "collaboration": [
+          {
+            "name": "Provisional Members",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Assign people",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Conversations",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Comments",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Proofing (image and video)",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Publish sheets, reports, and dashboards",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Collections",
+            "available": true,
+            "value": null,
+            "note": "NEW"
+          }
+        ],
+        "ai_tools": [
+          {
+            "name": "Intelligent form fill",
+            "available": true,
+            "value": null,
+            "note": "NEW"
+          },
+          {
+            "name": "Generate formulas",
+            "available": true,
+            "value": null,
+            "note": "NEW"
+          },
+          {
+            "name": "Text and summaries",
+            "available": true,
+            "value": null,
+            "note": "NEW"
+          },
+          {
+            "name": "Analyze data",
+            "available": true,
+            "value": null,
+            "note": "NEW"
+          }
+        ],
+        "automations": [
+          {
+            "name": "Automated triggers",
+            "available": true,
+            "value": "unlimited",
+            "note": null
+          },
+          {
+            "name": "Alerts and notifications",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Reminders",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Assign people action",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Update requests",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Approval requests",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Record a date",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Move or copy row",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Clear cell",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Send alert to Slack",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Send alert to Microsoft Teams",
+            "available": true,
+            "value": null,
+            "note": null
+          }
+        ],
+        "integrations": [
+          {
+            "name": "Microsoft Office 365 (Teams, Outlook, OneDrive, etc.)",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Google Workspace (Gmail, Hangouts, Drive, etc.)",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Slack",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Adobe Creative Cloud Extension",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Power BI",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Tableau",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Claude",
+            "available": true,
+            "value": null,
+            "note": "NEW"
+          },
+          {
+            "name": "E-signature with Docusign",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Nearly 100 more",
+            "available": true,
+            "value": null,
+            "note": null
+          }
+        ],
+        "security_admin": [
+          {
+            "name": "Single sign-on (SSO)",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Admin Center",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "User Management",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Plan Insights",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Group management",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Account discovery",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Schedule backups",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Domain validation",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "SAML-based SSO",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Directory integrations",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "User merge",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Enterprise Plan Manager",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Enterprise access controls",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Custom email domains",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "User account provisioning",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Safe Sharing",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Chargeback reports",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "System admin fallback",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Data retention policies",
+            "available": false,
+            "value": null,
+            "note": "add-on"
+          },
+          {
+            "name": "Data egress",
+            "available": false,
+            "value": null,
+            "note": "add-on"
+          },
+          {
+            "name": "Event reporting",
+            "available": false,
+            "value": null,
+            "note": "add-on"
+          },
+          {
+            "name": "Customer Managed Encryption Key (CMEK)",
+            "available": false,
+            "value": null,
+            "note": "add-on"
+          }
+        ]
+      }
+    }
+  ],
+  "add_ons": [
+    {
+      "name": "Brandfolder",
+      "description": "Bring marketing, creative, and content together in one place. Brandfolder empowers your team to centralize, manage, and track all of your digital assets in one place.",
+      "eligible_plans": [
+        "pro",
+        "business",
+        "enterprise",
+        "awm"
+      ],
+      "starting_price": null
+    },
+    {
+      "name": "Resource Management",
+      "description": "Match people to the right work, balance workloads, and forecast demand to improve project delivery with Resource Management.",
+      "eligible_plans": [
+        "business",
+        "enterprise",
+        "awm"
+      ],
+      "starting_price": null
+    },
+    {
+      "name": "Control Center",
+      "description": "Deliver project consistency and visibility at scale with automated project creation, aggregated reporting, and fast, reliable change management for portfolio-level updates.",
+      "eligible_plans": [
+        "business",
+        "enterprise"
+      ],
+      "starting_price": null
+    },
+    {
+      "name": "Dynamic View",
+      "description": "Share only relevant information to the right people at the right time, ensuring confidentiality without sacrificing collaboration.",
+      "eligible_plans": [
+        "business",
+        "enterprise"
+      ],
+      "starting_price": "$125/month"
+    },
+    {
+      "name": "Data Shuttle",
+      "description": "Automate the import and export of data between Smartsheet and external systems to keep your information aligned and accurate.",
+      "eligible_plans": [
+        "business",
+        "enterprise"
+      ],
+      "starting_price": "$100/month"
+    },
+    {
+      "name": "Calendar App",
+      "description": "A powerful, interactive and flexible calendar view that allows you to build and share calendars with custom details.",
+      "eligible_plans": [
+        "business",
+        "enterprise"
+      ],
+      "starting_price": null
+    },
+    {
+      "name": "DataMesh",
+      "description": "Eliminate manual work and keep your sheets and reports in sync — without manual copying and pasting or creating complex formulas.",
+      "eligible_plans": [
+        "business",
+        "enterprise"
+      ],
+      "starting_price": null
+    },
+    {
+      "name": "Pivot App",
+      "description": "Summarize and analyze large data stored in sheets or reports and create meaningful comparisons, and identify patterns, and trends.",
+      "eligible_plans": [
+        "business",
+        "enterprise"
+      ],
+      "starting_price": null
+    },
+    {
+      "name": "Connectors",
+      "description": "Sync data between Smartsheet and 3rd party systems like Jira.",
+      "eligible_plans": [
+        "business",
+        "enterprise"
+      ],
+      "starting_price": null
+    },
+    {
+      "name": "Bridge",
+      "description": "Create flexible workflows that work for your business with a low-code interface that lets you create simple, powerful process automations.",
+      "eligible_plans": [
+        "enterprise"
+      ],
+      "starting_price": null
+    }
+  ],
+  "support_tiers": [
+    {
+      "level": "Help & Learning content",
+      "availability": {
+        "pro": "included",
+        "business": "included",
+        "enterprise": "included",
+        "awm": "included"
+      }
+    },
+    {
+      "level": "Smartsheet Community",
+      "availability": {
+        "pro": "included",
+        "business": "included",
+        "enterprise": "included",
+        "awm": "included"
+      }
+    },
+    {
+      "level": "Web-based ticketing",
+      "availability": {
+        "pro": "included",
+        "business": "included",
+        "enterprise": "included",
+        "awm": "included"
+      }
+    },
+    {
+      "level": "Standard Support Package",
+      "availability": {
+        "pro": "not_available",
+        "business": "add-on",
+        "enterprise": "included",
+        "awm": "included"
+      }
+    },
+    {
+      "level": "Premium Support Package",
+      "availability": {
+        "pro": "not_available",
+        "business": "not_available",
+        "enterprise": "add-on",
+        "awm": "included"
+      }
+    },
+    {
+      "level": "Smartsheet University",
+      "availability": {
+        "pro": "add-on",
+        "business": "add-on",
+        "enterprise": "add-on",
+        "awm": "included"
+      }
+    },
+    {
+      "level": "Smartsheet Professional Services",
+      "availability": {
+        "pro": "not_available",
+        "business": "add-on",
+        "enterprise": "add-on",
+        "awm": "add-on"
+      }
+    },
+    {
+      "level": "Technical Account Managers",
+      "availability": {
+        "pro": "not_available",
+        "business": "add-on",
+        "enterprise": "add-on",
+        "awm": "add-on"
+      }
+    }
+  ],
+  "supported_currencies": [
+    "AUD",
+    "CAD",
+    "CHF",
+    "DKK",
+    "EUR",
+    "GBP",
+    "JPY",
+    "NOK",
+    "NZD",
+    "SEK",
+    "SGD",
+    "USD",
+    "ZAR"
+  ]
+}

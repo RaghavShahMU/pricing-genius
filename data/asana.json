@@ -1,0 +1,81 @@
+{
+  "competitor": "asana",
+  "display_name": "Asana",
+  "url": "https://asana.com/pricing",
+  "extracted_at": "2026-04-10T16:02:02.173478Z",
+  "extraction_method": "python",
+  "data_version": 1,
+  "plans": [
+    {
+      "name": "Personal",
+      "slug": "personal",
+      "tagline": null,
+      "is_free": false,
+      "is_custom_pricing": false,
+      "pricing": {
+        "monthly_per_unit": null,
+        "annual_per_unit": 0.0,
+        "unit": "user",
+        "currency": "USD",
+        "annual_discount_pct": null
+      },
+      "estimated_price_per_user_month": null,
+      "trial": null,
+      "users": null,
+      "automations_per_month_org": null,
+      "ai_actions_per_month": null,
+      "storage_per_file_mb": null,
+      "portfolios": null,
+      "projects_per_portfolio": null,
+      "features": {}
+    },
+    {
+      "name": "Starter",
+      "slug": "starter",
+      "tagline": null,
+      "is_free": false,
+      "is_custom_pricing": false,
+      "pricing": {
+        "monthly_per_unit": null,
+        "annual_per_unit": 10.99,
+        "unit": "user",
+        "currency": "USD",
+        "annual_discount_pct": null
+      },
+      "estimated_price_per_user_month": null,
+      "trial": null,
+      "users": null,
+      "automations_per_month_org": null,
+      "ai_actions_per_month": null,
+      "storage_per_file_mb": null,
+      "portfolios": null,
+      "projects_per_portfolio": null,
+      "features": {}
+    },
+    {
+      "name": "Advanced",
+      "slug": "advanced",
+      "tagline": null,
+      "is_free": false,
+      "is_custom_pricing": false,
+      "pricing": {
+        "monthly_per_unit": null,
+        "annual_per_unit": 24.99,
+        "unit": "user",
+        "currency": "USD",
+        "annual_discount_pct": null
+      },
+      "estimated_price_per_user_month": null,
+      "trial": null,
+      "users": null,
+      "automations_per_month_org": null,
+      "ai_actions_per_month": null,
+      "storage_per_file_mb": null,
+      "portfolios": null,
+      "projects_per_portfolio": null,
+      "features": {}
+    }
+  ],
+  "ai_studio": null,
+  "seat_scaling": []
+}

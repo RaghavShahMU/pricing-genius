@@ -1,0 +1,2560 @@
+{
+  "competitor": "wrike",
+  "display_name": "Wrike",
+  "url": "https://www.wrike.com/price/",
+  "extracted_at": "2026-04-10T16:01:56.738588Z",
+  "extraction_method": "python",
+  "data_version": 1,
+  "plans": [
+    {
+      "name": "Free",
+      "slug": "free",
+      "is_free": true,
+      "is_custom_pricing": false,
+      "pricing": null,
+      "trial": null,
+      "billing_note": null,
+      "users": null,
+      "storage_gb_per_user": null,
+      "automations_per_seat_month": null,
+      "guest_users": null,
+      "active_tasks": null,
+      "ai_tier": null,
+      "features": {
+        "General Work Management": [
+          {
+            "name": "Number of users",
+            "available": true,
+            "value": "Unlimited",
+            "note": null
+          },
+          {
+            "name": "Multi-language support",
+            "available": true,
+            "value": "8",
+            "note": null
+          },
+          {
+            "name": "Wrike for Windows & Mac",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "iOS & Android apps",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Branded workspace",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Storage space",
+            "available": true,
+            "value": "2 GB / account",
+            "note": null
+          },
+          {
+            "name": "Video processing limits per month",
+            "available": false,
+            "value": null,
+            "note": null
+          }
+        ],
+        "Project Management": [
+          {
+            "name": "Task management",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Subtask management",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Folder hierarchy",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Account-wide work schedules",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Personal work schedules",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Custom fields, workflows & statuses",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Project portfolio management",
+            "available": false,
+            "value": null,
+            "note": null
+          }
+        ],
+        "Views & Reporting": [
+          {
+            "name": "Email integration & notifications",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Custom work views (e.g., Table view, Kanban)",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Calendars",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Dynamic Gantt chart",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Dashboards",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Real-time reports",
+            "available": false,
+            "value": null,
+            "note": null
+          }
+        ],
+        "Advanced Reporting & BI": [
+          {
+            "name": "Chart view",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Tableau integration",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Business intelligence API",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Advanced analytics & data visualizations",
+            "available": false,
+            "value": null,
+            "note": null
+          }
+        ],
+        "AI features": [
+          {
+            "name": "MCP Server",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "AI Essentials:",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Onboarding assistant",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "AI content and editing",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Comment summary",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Whiteboard AI",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Mobile inbox prioritization",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "NL automation rule generation*",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "AI highlights*",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "NL form generation*",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "AI Elite:",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Wrike Copilot",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Widget generation",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Agents",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Whiteboard assistant*",
+            "available": false,
+            "value": null,
+            "note": null
+          }
+        ],
+        "Resource Management": [
+          {
+            "name": "Resources view",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Workload charts",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Effort allocation",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Resource assignment",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Time tracking",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Timesheets",
+            "available": false,
+            "value": null,
+            "note": null
+          }
+        ],
+        "Advanced Resource & Capacity Planning": [
+          {
+            "name": "Job roles",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Budgeting",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Resource Bookings",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Team utilization & performance dashboard",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "User attributes and skills",
+            "available": false,
+            "value": null,
+            "note": null
+          }
+        ],
+        "Asset Creation & Collaboration": [
+          {
+            "name": "Viewers",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Guest approvals",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "File proofing & approval",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Advanced proofing in HTML5 and Sharepoint",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Extension for Adobe Creative Cloud",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Digital asset management (DAM) integration",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Cloud Content Connector",
+            "available": false,
+            "value": null,
+            "note": null
+          }
+        ],
+        "Integration": [
+          {
+            "name": "Open RESTful API",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Cloud storage platforms",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Productivity apps & tools",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Salesforce integration",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Adobe Creative Cloud extension",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "NetSuite integration",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "QuickBooks integration",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Power BI integration",
+            "available": false,
+            "value": null,
+            "note": null
+          }
+        ],
+        "Admin & Security": [
+          {
+            "name": "Enterprise-grade security",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Authentication via G Suite (Google)",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Recycle bin",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Folder & project permissions",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "User audit reports",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "SAML 2.0 single sign-on (SSO)",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Two-step verification",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Controlled admin permission",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Network access (whitelist IP)",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Password policy settings",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Advanced user access controls",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Customizable user types",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Locked Spaces",
+            "available": false,
+            "value": null,
+            "note": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "Team",
+      "slug": "team",
+      "is_free": false,
+      "is_custom_pricing": false,
+      "pricing": {
+        "monthly_per_unit": null,
+        "annual_per_unit": 10.0,
+        "unit": "user",
+        "currency": "USD",
+        "annual_discount_pct": null
+      },
+      "trial": {
+        "days": 14,
+        "credit_card_required": false
+      },
+      "billing_note": null,
+      "users": null,
+      "storage_gb_per_user": null,
+      "automations_per_seat_month": null,
+      "guest_users": null,
+      "active_tasks": null,
+      "ai_tier": null,
+      "features": {
+        "General Work Management": [
+          {
+            "name": "Number of users",
+            "available": true,
+            "value": "2-15 users",
+            "note": null
+          },
+          {
+            "name": "Multi-language support",
+            "available": true,
+            "value": "8",
+            "note": null
+          },
+          {
+            "name": "Wrike for Windows & Mac",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "iOS & Android apps",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Branded workspace",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Storage space",
+            "available": true,
+            "value": "2 GB / user",
+            "note": null
+          },
+          {
+            "name": "Video processing limits per month",
+            "available": false,
+            "value": null,
+            "note": null
+          }
+        ],
+        "Project Management": [
+          {
+            "name": "Task management",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Subtask management",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Folder hierarchy",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Account-wide work schedules",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Personal work schedules",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Custom fields, workflows & statuses",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Project portfolio management",
+            "available": true,
+            "value": null,
+            "note": null
+          }
+        ],
+        "Views & Reporting": [
+          {
+            "name": "Email integration & notifications",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Custom work views (e.g., Table view, Kanban)",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Calendars",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Dynamic Gantt chart",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Dashboards",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Real-time reports",
+            "available": false,
+            "value": null,
+            "note": null
+          }
+        ],
+        "Advanced Reporting & BI": [
+          {
+            "name": "Chart view",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Tableau integration",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Business intelligence API",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Advanced analytics & data visualizations",
+            "available": false,
+            "value": null,
+            "note": null
+          }
+        ],
+        "AI features": [
+          {
+            "name": "MCP Server",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "AI Essentials:",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Onboarding assistant",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "AI content and editing",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Comment summary",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Whiteboard AI",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Mobile inbox prioritization",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "NL automation rule generation*",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "AI highlights*",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "NL form generation*",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "AI Elite:",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Wrike Copilot",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Widget generation",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Agents",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Whiteboard assistant*",
+            "available": false,
+            "value": null,
+            "note": null
+          }
+        ],
+        "Resource Management": [
+          {
+            "name": "Resources view",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Workload charts",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Effort allocation",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Resource assignment",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Time tracking",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Timesheets",
+            "available": false,
+            "value": null,
+            "note": null
+          }
+        ],
+        "Advanced Resource & Capacity Planning": [
+          {
+            "name": "Job roles",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Budgeting",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Resource Bookings",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Team utilization & performance dashboard",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "User attributes and skills",
+            "available": false,
+            "value": null,
+            "note": null
+          }
+        ],
+        "Asset Creation & Collaboration": [
+          {
+            "name": "Viewers",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Guest approvals",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "File proofing & approval",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Advanced proofing in HTML5 and Sharepoint",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Extension for Adobe Creative Cloud",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Digital asset management (DAM) integration",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Cloud Content Connector",
+            "available": false,
+            "value": null,
+            "note": null
+          }
+        ],
+        "Integration": [
+          {
+            "name": "Open RESTful API",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Cloud storage platforms",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Productivity apps & tools",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Salesforce integration",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Adobe Creative Cloud extension",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "NetSuite integration",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "QuickBooks integration",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Power BI integration",
+            "available": false,
+            "value": null,
+            "note": null
+          }
+        ],
+        "Admin & Security": [
+          {
+            "name": "Enterprise-grade security",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Authentication via G Suite (Google)",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Recycle bin",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Folder & project permissions",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "User audit reports",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "SAML 2.0 single sign-on (SSO)",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Two-step verification",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Controlled admin permission",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Network access (whitelist IP)",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Password policy settings",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Advanced user access controls",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Customizable user types",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Locked Spaces",
+            "available": false,
+            "value": null,
+            "note": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "Business",
+      "slug": "business",
+      "is_free": false,
+      "is_custom_pricing": false,
+      "pricing": {
+        "monthly_per_unit": null,
+        "annual_per_unit": 25.0,
+        "unit": "user",
+        "currency": "USD",
+        "annual_discount_pct": null
+      },
+      "trial": {
+        "days": 14,
+        "credit_card_required": false
+      },
+      "billing_note": null,
+      "users": null,
+      "storage_gb_per_user": null,
+      "automations_per_seat_month": null,
+      "guest_users": null,
+      "active_tasks": null,
+      "ai_tier": null,
+      "features": {
+        "General Work Management": [
+          {
+            "name": "Number of users",
+            "available": true,
+            "value": "5-200 users",
+            "note": null
+          },
+          {
+            "name": "Multi-language support",
+            "available": true,
+            "value": "8",
+            "note": null
+          },
+          {
+            "name": "Wrike for Windows & Mac",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "iOS & Android apps",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Branded workspace",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Storage space",
+            "available": true,
+            "value": "5 GB / user",
+            "note": null
+          },
+          {
+            "name": "Video processing limits per month",
+            "available": true,
+            "value": "0.5 GB / user",
+            "note": null
+          }
+        ],
+        "Project Management": [
+          {
+            "name": "Task management",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Subtask management",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Folder hierarchy",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Account-wide work schedules",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Personal work schedules",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Custom fields, workflows & statuses",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Project portfolio management",
+            "available": true,
+            "value": null,
+            "note": null
+          }
+        ],
+        "Views & Reporting": [
+          {
+            "name": "Email integration & notifications",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Custom work views (e.g., Table view, Kanban)",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Calendars",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Dynamic Gantt chart",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Dashboards",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Real-time reports",
+            "available": true,
+            "value": null,
+            "note": null
+          }
+        ],
+        "Advanced Reporting & BI": [
+          {
+            "name": "Chart view",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Tableau integration",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Business intelligence API",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Advanced analytics & data visualizations",
+            "available": false,
+            "value": null,
+            "note": null
+          }
+        ],
+        "AI features": [
+          {
+            "name": "MCP Server",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "AI Essentials:",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Onboarding assistant",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "AI content and editing",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Comment summary",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Whiteboard AI",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Mobile inbox prioritization",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "NL automation rule generation*",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "AI highlights*",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "NL form generation*",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "AI Elite:",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Wrike Copilot",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Widget generation",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Agents",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Whiteboard assistant*",
+            "available": true,
+            "value": null,
+            "note": null
+          }
+        ],
+        "Resource Management": [
+          {
+            "name": "Resources view",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Workload charts",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Effort allocation",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Resource assignment",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Time tracking",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Timesheets",
+            "available": true,
+            "value": null,
+            "note": null
+          }
+        ],
+        "Advanced Resource & Capacity Planning": [
+          {
+            "name": "Job roles",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Budgeting",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Resource Bookings",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Team utilization & performance dashboard",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "User attributes and skills",
+            "available": false,
+            "value": null,
+            "note": null
+          }
+        ],
+        "Asset Creation & Collaboration": [
+          {
+            "name": "Viewers",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Guest approvals",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "File proofing & approval",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Advanced proofing in HTML5 and Sharepoint",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Extension for Adobe Creative Cloud",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Digital asset management (DAM) integration",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Cloud Content Connector",
+            "available": true,
+            "value": null,
+            "note": null
+          }
+        ],
+        "Integration": [
+          {
+            "name": "Open RESTful API",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Cloud storage platforms",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Productivity apps & tools",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Salesforce integration",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Adobe Creative Cloud extension",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "NetSuite integration",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "QuickBooks integration",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Power BI integration",
+            "available": false,
+            "value": null,
+            "note": null
+          }
+        ],
+        "Admin & Security": [
+          {
+            "name": "Enterprise-grade security",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Authentication via G Suite (Google)",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Recycle bin",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Folder & project permissions",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "User audit reports",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "SAML 2.0 single sign-on (SSO)",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Two-step verification",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Controlled admin permission",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Network access (whitelist IP)",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Password policy settings",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Advanced user access controls",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Customizable user types",
+            "available": false,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Locked Spaces",
+            "available": false,
+            "value": null,
+            "note": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "Pinnacle",
+      "slug": "pinnacle",
+      "is_free": false,
+      "is_custom_pricing": true,
+      "pricing": null,
+      "trial": {
+        "days": 14,
+        "credit_card_required": false
+      },
+      "billing_note": null,
+      "users": null,
+      "storage_gb_per_user": null,
+      "automations_per_seat_month": null,
+      "guest_users": null,
+      "active_tasks": null,
+      "ai_tier": null,
+      "features": {
+        "General Work Management": [
+          {
+            "name": "Number of users",
+            "available": true,
+            "value": "Unlimited",
+            "note": null
+          },
+          {
+            "name": "Multi-language support",
+            "available": true,
+            "value": "8",
+            "note": null
+          },
+          {
+            "name": "Wrike for Windows & Mac",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "iOS & Android apps",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Branded workspace",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Storage space",
+            "available": true,
+            "value": "15 GB / user",
+            "note": null
+          },
+          {
+            "name": "Video processing limits per month",
+            "available": true,
+            "value": "1 GB / user",
+            "note": null
+          }
+        ],
+        "Project Management": [
+          {
+            "name": "Task management",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Subtask management",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Folder hierarchy",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Account-wide work schedules",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Personal work schedules",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Custom fields, workflows & statuses",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Project portfolio management",
+            "available": true,
+            "value": null,
+            "note": null
+          }
+        ],
+        "Views & Reporting": [
+          {
+            "name": "Email integration & notifications",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Custom work views (e.g., Table view, Kanban)",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Calendars",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Dynamic Gantt chart",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Dashboards",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Real-time reports",
+            "available": true,
+            "value": null,
+            "note": null
+          }
+        ],
+        "Advanced Reporting & BI": [
+          {
+            "name": "Chart view",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Tableau integration",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Business intelligence API",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Advanced analytics & data visualizations",
+            "available": true,
+            "value": null,
+            "note": null
+          }
+        ],
+        "AI features": [
+          {
+            "name": "MCP Server",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "AI Essentials:",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Onboarding assistant",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "AI content and editing",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Comment summary",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Whiteboard AI",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Mobile inbox prioritization",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "NL automation rule generation*",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "AI highlights*",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "NL form generation*",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "AI Elite:",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Wrike Copilot",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Widget generation",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Agents",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Whiteboard assistant*",
+            "available": true,
+            "value": null,
+            "note": null
+          }
+        ],
+        "Resource Management": [
+          {
+            "name": "Resources view",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Workload charts",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Effort allocation",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Resource assignment",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Time tracking",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Timesheets",
+            "available": true,
+            "value": null,
+            "note": null
+          }
+        ],
+        "Advanced Resource & Capacity Planning": [
+          {
+            "name": "Job roles",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Budgeting",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Resource Bookings",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Team utilization & performance dashboard",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "User attributes and skills",
+            "available": true,
+            "value": null,
+            "note": null
+          }
+        ],
+        "Asset Creation & Collaboration": [
+          {
+            "name": "Viewers",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Guest approvals",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "File proofing & approval",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Advanced proofing in HTML5 and Sharepoint",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Extension for Adobe Creative Cloud",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Digital asset management (DAM) integration",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Cloud Content Connector",
+            "available": true,
+            "value": null,
+            "note": null
+          }
+        ],
+        "Integration": [
+          {
+            "name": "Open RESTful API",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Cloud storage platforms",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Productivity apps & tools",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Salesforce integration",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Adobe Creative Cloud extension",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "NetSuite integration",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "QuickBooks integration",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Power BI integration",
+            "available": true,
+            "value": null,
+            "note": null
+          }
+        ],
+        "Admin & Security": [
+          {
+            "name": "Enterprise-grade security",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Authentication via G Suite (Google)",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Recycle bin",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Folder & project permissions",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "User audit reports",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "SAML 2.0 single sign-on (SSO)",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Two-step verification",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Controlled admin permission",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Network access (whitelist IP)",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Password policy settings",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Advanced user access controls",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Customizable user types",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Locked Spaces",
+            "available": true,
+            "value": null,
+            "note": null
+          }
+        ]
+      }
+    },
+    {
+      "name": "Apex",
+      "slug": "apex",
+      "is_free": false,
+      "is_custom_pricing": true,
+      "pricing": null,
+      "trial": {
+        "days": 14,
+        "credit_card_required": false
+      },
+      "billing_note": null,
+      "users": null,
+      "storage_gb_per_user": null,
+      "automations_per_seat_month": null,
+      "guest_users": null,
+      "active_tasks": null,
+      "ai_tier": null,
+      "features": {
+        "General Work Management": [
+          {
+            "name": "Number of users",
+            "available": true,
+            "value": "Unlimited",
+            "note": null
+          },
+          {
+            "name": "Multi-language support",
+            "available": true,
+            "value": "8",
+            "note": null
+          },
+          {
+            "name": "Wrike for Windows & Mac",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "iOS & Android apps",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Branded workspace",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Storage space",
+            "available": true,
+            "value": "50 GB / user",
+            "note": null
+          },
+          {
+            "name": "Video processing limits per month",
+            "available": true,
+            "value": "2 GB / user",
+            "note": null
+          }
+        ],
+        "Project Management": [
+          {
+            "name": "Task management",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Subtask management",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Folder hierarchy",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Account-wide work schedules",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Personal work schedules",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Custom fields, workflows & statuses",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Project portfolio management",
+            "available": true,
+            "value": null,
+            "note": null
+          }
+        ],
+        "Views & Reporting": [
+          {
+            "name": "Email integration & notifications",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Custom work views (e.g., Table view, Kanban)",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Calendars",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Dynamic Gantt chart",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Dashboards",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Real-time reports",
+            "available": true,
+            "value": null,
+            "note": null
+          }
+        ],
+        "Advanced Reporting & BI": [
+          {
+            "name": "Chart view",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Tableau integration",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Business intelligence API",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Advanced analytics & data visualizations",
+            "available": true,
+            "value": null,
+            "note": null
+          }
+        ],
+        "AI features": [
+          {
+            "name": "MCP Server",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "AI Essentials:",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Onboarding assistant",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "AI content and editing",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Comment summary",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Whiteboard AI",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Mobile inbox prioritization",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "NL automation rule generation*",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "AI highlights*",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "NL form generation*",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "AI Elite:",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Wrike Copilot",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Widget generation",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Agents",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Whiteboard assistant*",
+            "available": true,
+            "value": null,
+            "note": null
+          }
+        ],
+        "Resource Management": [
+          {
+            "name": "Resources view",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Workload charts",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Effort allocation",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Resource assignment",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Time tracking",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Timesheets",
+            "available": true,
+            "value": null,
+            "note": null
+          }
+        ],
+        "Advanced Resource & Capacity Planning": [
+          {
+            "name": "Job roles",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Budgeting",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Resource Bookings",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Team utilization & performance dashboard",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "User attributes and skills",
+            "available": true,
+            "value": null,
+            "note": null
+          }
+        ],
+        "Asset Creation & Collaboration": [
+          {
+            "name": "Viewers",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Guest approvals",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "File proofing & approval",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Advanced proofing in HTML5 and Sharepoint",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Extension for Adobe Creative Cloud",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Digital asset management (DAM) integration",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Cloud Content Connector",
+            "available": true,
+            "value": null,
+            "note": null
+          }
+        ],
+        "Integration": [
+          {
+            "name": "Open RESTful API",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Cloud storage platforms",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Productivity apps & tools",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Salesforce integration",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Adobe Creative Cloud extension",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "NetSuite integration",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "QuickBooks integration",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Power BI integration",
+            "available": true,
+            "value": null,
+            "note": null
+          }
+        ],
+        "Admin & Security": [
+          {
+            "name": "Enterprise-grade security",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Authentication via G Suite (Google)",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Recycle bin",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Folder & project permissions",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "User audit reports",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "SAML 2.0 single sign-on (SSO)",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Two-step verification",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Controlled admin permission",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Network access (whitelist IP)",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Password policy settings",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Advanced user access controls",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Customizable user types",
+            "available": true,
+            "value": null,
+            "note": null
+          },
+          {
+            "name": "Locked Spaces",
+            "available": true,
+            "value": null,
+            "note": null
+          }
+        ]
+      }
+    }
+  ],
+  "add_ons": []
+}

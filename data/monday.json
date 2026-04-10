@@ -1,0 +1,88 @@
+{
+  "competitor": "monday",
+  "display_name": "Monday.com",
+  "url": "https://monday.com/pricing",
+  "extracted_at": "2026-04-10T16:02:11.472144Z",
+  "extraction_method": "python",
+  "data_version": 1,
+  "global_policies": {
+    "minimum_seats": 3,
+    "annual_discount_pct": 18.0,
+    "trial_days": 14,
+    "custom_quote_above_seats": 40,
+    "refund_window_days": 30
+  },
+  "products": [
+    {
+      "name": "Work Management",
+      "slug": "work-management",
+      "plans": [
+        {
+          "name": "Free",
+          "slug": "free",
+          "is_free": true,
+          "is_custom_pricing": false,
+          "pricing": null,
+          "free_seats_limit": 2,
+          "active_contacts_deals": null,
+          "custom_dashboards": null,
+          "columns_per_board": null,
+          "quotes_invoices_per_month": null,
+          "features": {}
+        },
+        {
+          "name": "Basic",
+          "slug": "basic",
+          "is_free": false,
+          "is_custom_pricing": false,
+          "pricing": null,
+          "free_seats_limit": null,
+          "active_contacts_deals": null,
+          "custom_dashboards": null,
+          "columns_per_board": null,
+          "quotes_invoices_per_month": null,
+          "features": {}
+        },
+        {
+          "name": "Standard",
+          "slug": "standard",
+          "is_free": false,
+          "is_custom_pricing": false,
+          "pricing": null,
+          "free_seats_limit": null,
+          "active_contacts_deals": null,
+          "custom_dashboards": null,
+          "columns_per_board": null,
+          "quotes_invoices_per_month": null,
+          "features": {}
+        },
+        {
+          "name": "Pro",
+          "slug": "pro",
+          "is_free": false,
+          "is_custom_pricing": false,
+          "pricing": null,
+          "free_seats_limit": null,
+          "active_contacts_deals": null,
+          "custom_dashboards": null,
+          "columns_per_board": null,
+          "quotes_invoices_per_month": null,
+          "features": {}
+        },
+        {
+          "name": "Enterprise",
+          "slug": "enterprise",
+          "is_free": false,
+          "is_custom_pricing": true,
+          "pricing": null,
+          "free_seats_limit": null,
+          "active_contacts_deals": null,
+          "custom_dashboards": null,
+          "columns_per_board": null,
+          "quotes_invoices_per_month": null,
+          "features": {}
+        }
+      ]
+    }
+  ]
+}
