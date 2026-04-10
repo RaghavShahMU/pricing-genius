@@ -38,4 +38,12 @@ if __name__ == "__main__":
 
         port = int(os.getenv("PORT", "8080"))
         app = mcp.streamable_http_app()
-        uvicorn.run(app, host="0.0.0.0", port=port)
+
+        # Cloud Run uses a proxy — disable trusted host checking
+        uvicorn.run(
+            app,
+            host="0.0.0.0",
+            port=port,
+            forwarded_allow_ips="*",
+            proxy_headers=True,
+        )
